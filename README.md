@@ -1,1 +1,1 @@
-Please see in index.html file
+Please see the file index.html file
